@@ -1,0 +1,23 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+   package="com.wenkesj.voice"
+   xmlns:tools="http://schemas.android.com/tools">
+
+
+   <!-- Override Library if necessary -->
+   <uses-sdk tools:overrideLibrary="com.facebook.react" />
+
+
+   <!-- Required Permissions -->
+   <uses-permission android:name="android.permission.RECORD_AUDIO" />
+   <uses-permission android:name="android.permission.INTERNET" />
+
+
+   <!-- Intent Queries for Voice Recognition -->
+   <queries>
+       <intent>
+           <action android:name="android.speech.RecognitionService" />
+       </intent>
+   </queries>
+
+
+</manifest>

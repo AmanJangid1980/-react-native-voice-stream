@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rohitbansal/Downloads/PROJECTS/Untitled/CyberLance/node_modules/@react-native-voice/voice/android/src/main/AndroidManifest.xml:1:1-23:12
+INJECTED from /Users/rohitbansal/Downloads/PROJECTS/Untitled/CyberLance/node_modules/@react-native-voice/voice/android/src/main/AndroidManifest.xml:1:1-23:12
+	package
+		ADDED from /Users/rohitbansal/Downloads/PROJECTS/Untitled/CyberLance/node_modules/@react-native-voice/voice/android/src/main/AndroidManifest.xml:2:4-31
+		INJECTED from /Users/rohitbansal/Downloads/PROJECTS/Untitled/CyberLance/node_modules/@react-native-voice/voice/android/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/rohitbansal/Downloads/PROJECTS/Untitled/CyberLance/node_modules/@react-native-voice/voice/android/src/main/AndroidManifest.xml:3:4-50
+	xmlns:android
+		ADDED from /Users/rohitbansal/Downloads/PROJECTS/Untitled/CyberLance/node_modules/@react-native-voice/voice/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from /Users/rohitbansal/Downloads/PROJECTS/Untitled/CyberLance/node_modules/@react-native-voice/voice/android/src/main/AndroidManifest.xml:7:4-59
+INJECTED from /Users/rohitbansal/Downloads/PROJECTS/Untitled/CyberLance/node_modules/@react-native-voice/voice/android/src/main/AndroidManifest.xml:7:4-59
+INJECTED from /Users/rohitbansal/Downloads/PROJECTS/Untitled/CyberLance/node_modules/@react-native-voice/voice/android/src/main/AndroidManifest.xml:7:4-59
+	tools:overrideLibrary
+		ADDED from /Users/rohitbansal/Downloads/PROJECTS/Untitled/CyberLance/node_modules/@react-native-voice/voice/android/src/main/AndroidManifest.xml:7:14-56
+	android:targetSdkVersion
+		INJECTED from /Users/rohitbansal/Downloads/PROJECTS/Untitled/CyberLance/node_modules/@react-native-voice/voice/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rohitbansal/Downloads/PROJECTS/Untitled/CyberLance/node_modules/@react-native-voice/voice/android/src/main/AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/rohitbansal/Downloads/PROJECTS/Untitled/CyberLance/node_modules/@react-native-voice/voice/android/src/main/AndroidManifest.xml:11:4-70
+	android:name
+		ADDED from /Users/rohitbansal/Downloads/PROJECTS/Untitled/CyberLance/node_modules/@react-native-voice/voice/android/src/main/AndroidManifest.xml:11:21-67
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rohitbansal/Downloads/PROJECTS/Untitled/CyberLance/node_modules/@react-native-voice/voice/android/src/main/AndroidManifest.xml:12:4-66
+	android:name
+		ADDED from /Users/rohitbansal/Downloads/PROJECTS/Untitled/CyberLance/node_modules/@react-native-voice/voice/android/src/main/AndroidManifest.xml:12:21-63
+queries
+ADDED from /Users/rohitbansal/Downloads/PROJECTS/Untitled/CyberLance/node_modules/@react-native-voice/voice/android/src/main/AndroidManifest.xml:16:4-20:14
+intent#action:name:android.speech.RecognitionService
+ADDED from /Users/rohitbansal/Downloads/PROJECTS/Untitled/CyberLance/node_modules/@react-native-voice/voice/android/src/main/AndroidManifest.xml:17:8-19:17
+action#android.speech.RecognitionService
+ADDED from /Users/rohitbansal/Downloads/PROJECTS/Untitled/CyberLance/node_modules/@react-native-voice/voice/android/src/main/AndroidManifest.xml:18:12-71
+	android:name
+		ADDED from /Users/rohitbansal/Downloads/PROJECTS/Untitled/CyberLance/node_modules/@react-native-voice/voice/android/src/main/AndroidManifest.xml:18:20-68
